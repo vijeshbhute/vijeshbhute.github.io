@@ -4,3 +4,7 @@ The goal of this repository would be to store codes and documents associated wit
 ## Sub header
 
 Example
+
+## Branching test
+
+Step 1 git checkout -b feature
