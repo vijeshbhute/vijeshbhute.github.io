@@ -4,16 +4,6 @@ title: "Website launched"
 date: 2022-03-31
 ---
 
-Well. Finally got around to putting this website together. Powered by <a href="http://jekyllrb.com" target ="_blank">Jekyll</a> and special thanks to Jonathan McGlone for a very handy tutorial! If you are interested to use GitHub to build your personal webpage, do check out <a href="http://jmcglone.com/guides/github-pages/" target ="_blank">this blogpost</a>. 
-
-### Testing out latex
-
-$$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$
-
-### Trying RSS
-Subscribe to updates <a href="/blog/atom.xml">RSS feed</A>
-
-### Trying Twitter feed
 <style>
 * {
   box-sizing: border-box;
@@ -27,11 +17,11 @@ Subscribe to updates <a href="/blog/atom.xml">RSS feed</A>
 }
 
 .left {
-  width: 25%;
+  width: 70%;
 }
 
 .right {
-  width: 75%;
+  width: 30%;
 }
 
 /* Clear floats after the columns */
@@ -47,10 +37,18 @@ Subscribe to updates <a href="/blog/atom.xml">RSS feed</A>
 <div class="row">
   <div class="column left" style="background-color:#aaa;">
     <h2>Column 1</h2>
-    <p>Some text..</p>
+    <p>Well. Finally got around to putting this website together. Powered by <a href="http://jekyllrb.com" target ="_blank">Jekyll</a> and special thanks to Jonathan McGlone for a very handy tutorial! If you are interested to use GitHub to build your personal webpage, do check out <a href="http://jmcglone.com/guides/github-pages/" target ="_blank">this blogpost</a>.</p>
+    <p>
+      ### Testing out latex
+
+$$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$
+
+### Trying RSS
+Subscribe to updates <a href="/blog/atom.xml">RSS feed</A>
+    </p>
   </div>
   <div class="column right" style="background-color:#bbb;">
-    <h2>Column 2</h2>
+    <h2>Trying Twitter feed</h2>
     <p><a class="twitter-timeline" href="https://twitter.com/VijeshBhute?ref_src=twsrc%5Etfw">Tweets by VijeshBhute</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
   </div>
 </div>
@@ -58,4 +56,3 @@ Subscribe to updates <a href="/blog/atom.xml">RSS feed</A>
   <div class="column"></div>
   <div class="column"></div>
 </div>
-
