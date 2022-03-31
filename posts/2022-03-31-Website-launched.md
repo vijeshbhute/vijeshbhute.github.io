@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vijesh Launches Site"
+title: "Website launched"
 date: 2022-03-31
 ---
 
